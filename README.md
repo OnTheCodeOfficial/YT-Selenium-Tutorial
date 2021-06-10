@@ -23,8 +23,8 @@ For eng:
 
 Recommended:                       แนะนำ:
 
-- Basic python knowledge           พื้นฐาน ภาษาไพทอล
-- Website knowledge                ความรู้เรื่องเว็ปไซท์ หรือ เว็ปเพจ ส่วนนึง
+    - Basic python knowledge           พื้นฐาน ภาษาไพทอล
+    - Website knowledge                ความรู้เรื่องเว็ปไซท์ หรือ เว็ปเพจ ส่วนนึง
 
 Support OS: Windows 8.X+ Only      โปรเจคนี้รองรับแค่ระบบปฎิบัติการณ์ Windows 8.X ขึ้นไป
 
