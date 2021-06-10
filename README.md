@@ -4,7 +4,7 @@ The source code from YouTube
 **`How to use install and run
 วิธีการติดตั้งหรือใช้งาน`**
 
-For TH:
+*For TH:*
 
     [+]  ต้องการไพทอล เวอร์ชั่น 3.X ขึ้นไป
     [+]  ต้องการโครมไดรเวอร์ เวอร์ชั่นต้องตรงกับทางโครมเบราเซอร์ที่ท่านใช้งานอยู่
@@ -12,7 +12,7 @@ For TH:
     [+]  ต้องติดตั้งโมดูล/ไลบรารี่ selenium
          โดยการพิมพ์ไปในเทอร์มินัลว่า  `pip install selenium` เท่านี้
 
-For eng:
+*For ENG:*
 
     [+]  You need to have python 3.X+
     [+]  You need Chrome driver because this project it's for Chrome driver
