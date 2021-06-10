@@ -18,7 +18,7 @@ For eng:
          and you have to match the version of it depend on your google browser versions
          also you can modify it to another driver like Edge,Opera,Gecko by yourself if you want
     [+]  You need to install module: selenium
-          by typing `pip install selenium` into the terminal
+         by type `pip install selenium` into the terminal
 
 
 Recommended:                       แนะนำ:
@@ -26,7 +26,9 @@ Recommended:                       แนะนำ:
     - Basic python knowledge           พื้นฐาน ภาษาไพทอล
     - Website knowledge                ความรู้เรื่องเว็ปไซท์ หรือ เว็ปเพจ ส่วนนึง
 
-Support OS: Windows 8.X+ Only      โปรเจคนี้รองรับแค่ระบบปฎิบัติการณ์ Windows 8.X ขึ้นไป
+
+    Support OS: Windows 8.X+ Only
+    โปรเจคนี้รองรับแค่ระบบปฎิบัติการณ์ Windows 8.X ขึ้นไป
 
 
 
