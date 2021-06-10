@@ -32,7 +32,7 @@ try:
     driver.get('https://panel.dritestudio.co.th/register')
 
     try:
-        WebDriverWait(driver, 30).until(EC.presence_of_element_located((By.Xpath, '//*[@id="__layout"]/div/div[2]/div/div/div/div/div[2]/div/form/div[1]/input')))
+        WebDriverWait(driver, 30).until(EC.presence_of_element_located((By.XPATH, '//*[@id="__layout"]/div/div[2]/div/div/div/div/div[2]/div/form/div[1]/input')))
 
         start_time = time.time()          #เริ่มนับเวลา start counting time
         
