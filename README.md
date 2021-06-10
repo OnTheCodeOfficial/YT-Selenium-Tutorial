@@ -1,7 +1,10 @@
 # YT-Selenium-Tutorial
 The source code from YouTube
 
-How to install & run:              วิธีการติดตั้งหรือใช้งาน:
+**
+How to use install and run
+วิธีการติดตั้งหรือใช้งาน
+**
 
 For TH:
 
