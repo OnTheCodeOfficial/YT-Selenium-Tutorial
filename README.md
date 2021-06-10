@@ -34,4 +34,4 @@ The source code from YouTube
     โปรเจคนี้รองรับแค่ระบบปฎิบัติการณ์ Windows 8.X ขึ้นไป
 
 
-**Youtube Channel URL**: `https://www.youtube.com/channel/UCR36RiqSuLNS6P1-aTjO2aw`
+**Youtube Channel URL**: https://www.youtube.com/channel/UCR36RiqSuLNS6P1-aTjO2aw
