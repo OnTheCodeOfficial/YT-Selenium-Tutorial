@@ -22,19 +22,16 @@ The source code from YouTube
          by type `pip install selenium` into the terminal
 
 
-Recommended:                       แนะนำ:
+*Recommended, แนะนำ:*
 
     - Basic python knowledge           พื้นฐาน ภาษาไพทอล
     - Website knowledge                ความรู้เรื่องเว็ปไซท์ หรือ เว็ปเพจ ส่วนนึง
 
 
-Support OS:
+*Support OS, ระบบปฎิบัติการณ์ที่รองรับ:*
 
     Windows 8.X+ Only
     โปรเจคนี้รองรับแค่ระบบปฎิบัติการณ์ Windows 8.X ขึ้นไป
 
 
-
-
-
-Youtube Channel URL: https://www.youtube.com/channel/UCR36RiqSuLNS6P1-aTjO2aw
+**Youtube Channel URL**: `https://www.youtube.com/channel/UCR36RiqSuLNS6P1-aTjO2aw`
