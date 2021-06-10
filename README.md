@@ -9,7 +9,7 @@ The source code from YouTube
     [+]  ต้องการไพทอล เวอร์ชั่น 3.X ขึ้นไป
     [+]  ต้องการโครมไดรเวอร์ เวอร์ชั่นต้องตรงกับทางโครมเบราเซอร์ที่ท่านใช้งานอยู่
          เพราะว่าโปรเจคนี้เขียนมาเพื่อ Chrome-Driver เท่านั้น แต่ท่านสามารถ ดัดแปลงเป็น Edge driver หรืออื่นๆได้
-    [+]  ต้องติดตั้งโมดูล/ไลบรารี่ selenium
+    [+]  ต้องติดตั้งโมดูล/ไลบรารี่: `selenium`
          โดยการพิมพ์ไปในเทอร์มินัลว่า  `pip install selenium` เท่านี้
 
 *For ENG:*
@@ -18,7 +18,7 @@ The source code from YouTube
     [+]  You need Chrome driver because this project it's for Chrome driver
          and you have to match the version of it depend on your google browser versions
          also you can modify it to another driver like Edge,Opera,Gecko by yourself if you want
-    [+]  You need to install module: selenium
+    [+]  You need to install module: `selenium`
          by type `pip install selenium` into the terminal
 
 
